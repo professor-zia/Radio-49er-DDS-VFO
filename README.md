@@ -3,3 +3,4 @@ Modular amateur radio transceiver design using a combination of Arduino UNO, AD9
 
 # Similar Projects
 https://kk9jef.wordpress.com/2016/08/10/qst-forty-9er-with-dds-vfo/
+http://www.norcalqrp.org/files/49erOrigMnl.pdf
