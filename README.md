@@ -11,3 +11,5 @@ https://www.pcbway.com/project/share/Nano_DDS_VFO__3_30_MHz_.html
 http://www.norcalqrp.org/files/49erOrigMnl.pdf
 
 https://github.com/professor-zia/Radio-SCRadioSoftwareK4KRW
+
+https://github.com/on7dq/Forty-Niner-PLL
