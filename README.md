@@ -17,4 +17,6 @@ https://github.com/on7dq/Forty-Niner-PLL
 # QST Article
 https://github.com/professor-zia/Radio-49er-DDS-VFO/blob/main/Documents/571a7883-2847-4841-ad63-247b067adfba.pdf
 
+https://github.com/professor-zia/Radio-49er-DDS-VFO/blob/main/Documents/Forty_9er_additional_assembly_instructions_2016.pdf
+
 https://www.arrl.org/news/jack-purdum-w8tee-farrukh-zia-k2zia-and-dennis-kidder-w6dq-win-march-qst-cover-plaque-award
