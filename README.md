@@ -13,3 +13,6 @@ http://www.norcalqrp.org/files/49erOrigMnl.pdf
 https://github.com/professor-zia/Radio-SCRadioSoftwareK4KRW
 
 https://github.com/on7dq/Forty-Niner-PLL
+
+# QST Article
+https://www.arrl.org/news/jack-purdum-w8tee-farrukh-zia-k2zia-and-dennis-kidder-w6dq-win-march-qst-cover-plaque-award
