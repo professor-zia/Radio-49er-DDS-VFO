@@ -14,6 +14,8 @@ https://github.com/professor-zia/Radio-SCRadioSoftwareK4KRW
 
 https://github.com/on7dq/Forty-Niner-PLL
 
+https://softsolder.com/2017/05/30/ad9850-dds-module-hardware-assisted-spi-and-fixed-point-frequency-stepping/
+
 # QST Article
 https://github.com/professor-zia/Radio-49er-DDS-VFO/blob/main/Documents/571a7883-2847-4841-ad63-247b067adfba.pdf
 
